@@ -1,0 +1,20 @@
+C:\Users\pc\source\repos\Standby_Chadha_HFAISSI\Standby_Chadha_HFAISSI\bin\Debug\Standby_Chadha_HFAISSI.exe.config
+C:\Users\pc\source\repos\Standby_Chadha_HFAISSI\Standby_Chadha_HFAISSI\bin\Debug\Standby_Chadha_HFAISSI.exe
+C:\Users\pc\source\repos\Standby_Chadha_HFAISSI\Standby_Chadha_HFAISSI\bin\Debug\Standby_Chadha_HFAISSI.pdb
+C:\Users\pc\source\repos\Standby_Chadha_HFAISSI\Standby_Chadha_HFAISSI\obj\Debug\Standby_Chadha_HFAISSI.csprojAssemblyReference.cache
+C:\Users\pc\source\repos\Standby_Chadha_HFAISSI\Standby_Chadha_HFAISSI\obj\Debug\Standby_Chadha_HFAISSI.Form1.resources
+C:\Users\pc\source\repos\Standby_Chadha_HFAISSI\Standby_Chadha_HFAISSI\obj\Debug\Standby_Chadha_HFAISSI.Properties.Resources.resources
+C:\Users\pc\source\repos\Standby_Chadha_HFAISSI\Standby_Chadha_HFAISSI\obj\Debug\Standby_Chadha_HFAISSI.csproj.GenerateResource.cache
+C:\Users\pc\source\repos\Standby_Chadha_HFAISSI\Standby_Chadha_HFAISSI\obj\Debug\Standby_Chadha_HFAISSI.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\Standby_Chadha_HFAISSI\Standby_Chadha_HFAISSI\obj\Debug\Standby_Chadha_HFAISSI.exe
+C:\Users\pc\source\repos\Standby_Chadha_HFAISSI\Standby_Chadha_HFAISSI\obj\Debug\Standby_Chadha_HFAISSI.pdb
+C:\Users\pc\Desktop\2eme gsil\Standby_Chadha_HFAISSI\Standby_Chadha_HFAISSI\bin\Debug\Standby_Chadha_HFAISSI.exe.config
+C:\Users\pc\Desktop\2eme gsil\Standby_Chadha_HFAISSI\Standby_Chadha_HFAISSI\bin\Debug\Standby_Chadha_HFAISSI.exe
+C:\Users\pc\Desktop\2eme gsil\Standby_Chadha_HFAISSI\Standby_Chadha_HFAISSI\bin\Debug\Standby_Chadha_HFAISSI.pdb
+C:\Users\pc\Desktop\2eme gsil\Standby_Chadha_HFAISSI\Standby_Chadha_HFAISSI\obj\Debug\Standby_Chadha_HFAISSI.csprojAssemblyReference.cache
+C:\Users\pc\Desktop\2eme gsil\Standby_Chadha_HFAISSI\Standby_Chadha_HFAISSI\obj\Debug\Standby_Chadha_HFAISSI.Form1.resources
+C:\Users\pc\Desktop\2eme gsil\Standby_Chadha_HFAISSI\Standby_Chadha_HFAISSI\obj\Debug\Standby_Chadha_HFAISSI.Properties.Resources.resources
+C:\Users\pc\Desktop\2eme gsil\Standby_Chadha_HFAISSI\Standby_Chadha_HFAISSI\obj\Debug\Standby_Chadha_HFAISSI.csproj.GenerateResource.cache
+C:\Users\pc\Desktop\2eme gsil\Standby_Chadha_HFAISSI\Standby_Chadha_HFAISSI\obj\Debug\Standby_Chadha_HFAISSI.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\2eme gsil\Standby_Chadha_HFAISSI\Standby_Chadha_HFAISSI\obj\Debug\Standby_Chadha_HFAISSI.exe
+C:\Users\pc\Desktop\2eme gsil\Standby_Chadha_HFAISSI\Standby_Chadha_HFAISSI\obj\Debug\Standby_Chadha_HFAISSI.pdb
